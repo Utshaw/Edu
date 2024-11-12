@@ -1,5 +1,5 @@
 class Person {
 
-    name = "Arthur";
+    name = "John from master";
 
 }
