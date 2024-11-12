@@ -1,1 +1,3 @@
-class Orange {}
+class Orange {
+    color = "orange";
+}
